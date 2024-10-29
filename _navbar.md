@@ -1,8 +1,6 @@
 <!-- _navbar.md -->
 
 * 链接到我
-
-[//]: # (  * [关于本人]&#40;https://www.baidu.com&#41; )
   * [CSDN地址](https://blog.csdn.net/qq_37184877)
   * [Github地址](https://github.com/sanxiaoshitou)
   * [Gitee地址](https://gitee.com/hxl1123)
