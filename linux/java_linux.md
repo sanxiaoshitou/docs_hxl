@@ -1,6 +1,6 @@
 ## Linux下安装Java环境三种方式（tar.gz、rpm、yum）
 
-文献：https://www.cnblogs.com/antLaddie/p/17599359.html
+
 
 ### 一、jdk下载
 
@@ -73,5 +73,8 @@ which java
 一般rpm、yum方式安装的不需要配置环境变量，但是若识别不到还是老老实实配置环境变量
 若yum安装则默认Java被安装在 “ /usr/lib/jvm ”（一般不用手动配置）
 若RPM安装则默认Java被安装在 “ /usr/java/jdk1.8.0-x64 ”（一般不用手动配置）
+
+### 参考文献
+文献：https://www.cnblogs.com/antLaddie/p/17599359.html
 
 
