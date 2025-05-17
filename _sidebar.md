@@ -12,4 +12,6 @@
 
 * [工具](tool/)
   - [Jetbra 破解 JetBrain IDEA](/tool/idea_crack.md)
+  - [docsify 学习](/tool/docsify_init.md)
+  - [git 相关处理](/tool/git_command.md)
 
