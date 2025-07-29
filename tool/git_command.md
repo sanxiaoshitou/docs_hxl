@@ -12,3 +12,6 @@ git config --global https.https://github.com.proxy 127.0.0.1:7890
 ```shell
 git config --list | grep -i proxy
 ```
+
+### 2、github 设置token密钥
+

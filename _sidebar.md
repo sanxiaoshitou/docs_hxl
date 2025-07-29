@@ -2,6 +2,8 @@
 
 * [首页](/README.md)
 * [java](java/)
+  - [ThreadLocal 学习整理](/java/ThreadLocal_java.md)
+  - [maven 加载顺序](/java/maven_java.md)
 * [liunx](linux/)
   - [Linux下 Java环境三种方式（tar.gz、rpm、yum）](/linux/java_linux.md)
   - [linux下 redis安装](/linux/redis_linux.md)
@@ -9,7 +11,9 @@
   - [linux下 yum安装mysql 8.0过程详解](/linux/mysql8.0_linux.md)
   - [linux下 yum配置阿里云镜像](/linux/yum_linux.md)
 * [python](python/)
-
+* [sql](sql/)
+  - [SQL 语法场景一](/sql/SQL001.md)
+  - [SQL 语法场景二](/sql/SQL002.md)
 * [工具](tool/)
   - [Jetbra 破解 JetBrain IDEA](/tool/idea_crack.md)
   - [docsify 学习](/tool/docsify_init.md)

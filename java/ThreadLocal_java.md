@@ -1,4 +1,4 @@
-## ThreadLocal 学习
+## ThreadLocal 学习整理
 
 ### 一、ThreadLocal
 ThreadLocal提供了线程局部变量,每个线程都可以通过get/set访问自己独立的变量副本。
