@@ -10,6 +10,8 @@
   - [linux下 yum安装mysql 7.0过程详解](/linux/mysql7.0_linux.md)
   - [linux下 yum安装mysql 8.0过程详解](/linux/mysql8.0_linux.md)
   - [linux下 yum配置阿里云镜像](/linux/yum_linux.md)
+* [java 进阶](java_advanced/)
+  - [prometheus + grafana配置](/java_advanced/Prometheus.md)
 * [python](python/)
 * [sql](sql/)
   - [SQL 语法场景一](/sql/SQL001.md)
