@@ -1,6 +1,6 @@
 ## prometheus + grafana配置
-为了方便测试 在wind 下安装测试
-
+为了方便测试 在wind 下安装测试,其他系统下载对应包即可
+参考文献：https://cloud.tencent.com/developer/article/2288906
 
 ### 一、安装
 官网下载:[https://prometheus.io](https://prometheus.io/)
