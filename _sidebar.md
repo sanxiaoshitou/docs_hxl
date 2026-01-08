@@ -18,6 +18,7 @@
   - [linux下 redis安装](/linux/redis_linux.md)
   - [linux下 yum安装mysql 7.0过程详解](/linux/mysql7.0_linux.md)
   - [linux下 yum安装mysql 8.0过程详解](/linux/mysql8.0_linux.md)
+  - [linux下 MondoDB 安装](/linux/Mongodb_liunx.md)
   - [linux下 yum配置阿里云镜像](/linux/yum_linux.md)
 * [python](python/)
   - [谷歌浏览器驱动下载](/python/chrome_driver.md)
