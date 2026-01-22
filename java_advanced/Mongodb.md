@@ -1,6 +1,4 @@
 # MongoDB
-
-
 MySQL	MongoDB
 数据库（DataBase）	数据库（DataBase）
 数据表（Table）	数据集合（Collection）
@@ -8,7 +6,14 @@ MySQL	MongoDB
 列/字段（Column）	字段（Field）
 索引（Index）	索引（Index）
 
-## 库和集合操作
+
+## 一、安装
+[DB.md](/linux/Mongodb_liunx.md)
+
+
+## 二、语法 
+
+### 1、库和集合操作
 
 * 查询所有数据库：show dbs;或show databases;
 * 切换/创建数据库：use 库名;
@@ -22,4 +27,4 @@ MySQL	MongoDB
 * 查看集合的数据大小：db.集合名.totalSize();
 * 删除指定集合：db.集合名.drop();
 
-## 集合操作
+### 2、集合操作

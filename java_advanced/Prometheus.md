@@ -1,6 +1,13 @@
-## prometheus + grafana配置
+## prometheus配置
 为了方便测试 在wind 下安装测试,其他系统下载对应包即可
 参考文献：https://cloud.tencent.com/developer/article/2288906
+
+作用：     
+数据收集： Prometheus 是一个开源的系统监控和报警工具，主要用于收集、存储和查询时间序列数据。它通过 HTTP 抓取（scrape）方式从被监控的目标获取数据。   
+数据存储：Prometheus 使用时间序列数据库来存储所有收集到的指标数据。时间序列数据包括指标名称和标签，标签用于唯一标识时间序列。    
+数据查询：Prometheus 提供了一种强大的查询语言 PromQL，可以用来查询和分析收集到的数据（虽然语法强大， 但是还是不如可视化 。哈哈，所以要和grafana配合起来）。 
+告警： Prometheus 内置告警管理器（Alertmanager），可以根据预定义的规则触发告警，并将告警发送到各种通知渠道（如邮件、Slack、PagerDuty 等）。   
+
 
 ### 一、安装
 官网下载:[https://prometheus.io](https://prometheus.io/)
