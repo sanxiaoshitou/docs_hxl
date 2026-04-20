@@ -22,4 +22,6 @@ git config --global --unset http.proxy
 git config --global --unset https.proxy
 
 ### 2、github 设置token密钥
+路径：settings -> Developer Settings
+![设置token](../web/img/github001.png)
 
