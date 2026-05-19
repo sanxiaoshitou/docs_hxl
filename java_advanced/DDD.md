@@ -20,5 +20,5 @@ DDD的CQRS模型这种：src/main/java
 │ ├── message # 消息队列        
 │ └── external # 外部服务调用     
 └── interface/controller# 用户接口层     
-├── web # REST API      
-└── rpc # gRPC/Dubbo        
+│  ├── web # REST API      
+│  └── rpc # gRPC/Dubbo        
