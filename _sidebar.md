@@ -1,6 +1,8 @@
 <!-- _sidebar.md -->
 
 * [首页](/README.md)
+* [AI 学习](ai/)
+  - [claude code 安装和使用](/ai/ClaudeCode安装和使用.md)
 * [java](java/)
   - [Spring 事务](/java/Sping事务.md)
   - [Java反射的20个使用经验](/java/Java反射的20个使用经验.md)
@@ -26,7 +28,7 @@
   - [docker 学习](/linux/docker_liunx.md)
 * [python](python/)
   - [谷歌浏览器驱动下载](/python/chrome_driver.md)
-* [工具](tool/)
+* [其他](tool/)
   - [Jetbra 破解 JetBrain IDEA](/tool/idea_crack.md)
   - [docsify 学习](/tool/docsify_init.md)
   - [git 相关处理](/tool/git_command.md)
